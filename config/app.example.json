@@ -1,0 +1,4 @@
+{
+  "data_dir": "//server/share/Liquidity/ILST/Final",
+  "file_pattern": "GetILSTAggT2_{date}.csv"
+}

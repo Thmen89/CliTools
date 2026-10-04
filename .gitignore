@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.lock
+*.tmp
+*.xlsx
+config/app.json
+sample_data/settings.json

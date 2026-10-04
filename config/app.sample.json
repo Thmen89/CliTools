@@ -1,0 +1,7 @@
+{
+  "data_dir": "sample_data",
+  "file_pattern": "GetILSTAggT2_{date}.csv",
+  "settings_file": "sample_data/settings.json",
+  "prepositioning_file": "sample_data/prepositioning.json",
+  "banner": "FAKE DATA"
+}
